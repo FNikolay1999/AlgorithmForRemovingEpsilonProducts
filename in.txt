@@ -1,0 +1,9 @@
+S->\e|B B->\e
+S->AaB|aB|cC A->AB|a|b|B B->Ba|\e C->AB|c
+S->AaB|aB|cC A->AB|a|b|B B->Ba|\e C->ABD|c D->\e
+S->\e|B B->B|\e
+S->\e|B B->Bb|\e
+S->cA|\e A->cA|bA|\e
+S->AB A->aAA|\e B->bBB|\e
+S->AB A->aAA|\e B->\e|bBB
+S->ABCd A->a|\e B->AC C->c|\e
